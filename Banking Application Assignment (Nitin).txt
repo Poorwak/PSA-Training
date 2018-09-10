@@ -1,0 +1,25 @@
+ Develop REST WS application for following business case.
+ 
+ A bank, identified by a unique code, has branches at various locations. Every branch is identified by a unique branch code. Bank supports following types of accounts
+	Saving Account
+	Current Account
+	Fixed Deposit Account
+	Recurring Deposit Account
+ 
+ A bank has back office (BO) and front office  (FO) functionalities.
+ FO deals with customers for following
+	Create customer
+	Update KYS
+	Opening of account
+	Closing of account
+	Withdraw money
+	Deposit money
+	Request Cheque book
+ 
+ 
+ BO deals with back end function
+        Print cheque  books
+        Manage own Employees
+        Create Employee
+        Update Employee
+        Transfer Employee from one branch to other branch.
