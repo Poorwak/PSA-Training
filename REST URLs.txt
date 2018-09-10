@@ -1,0 +1,11 @@
+
+GET http://localhost:9090/api/employee/ ==> Fetching list of employees
+GET http://localhost:9090/api/employee/40 ==> Fetching particular employee list
+POST http://localhost:9090/api/employee/ ==> Saving employee details
+DELETE http://localhost:9090/api/employee/ 
+
+GET http://localhost:9090/api/employee/40/departments ==>
+
+GET http://localhost:9090/api/departments?employee=40 ==> Fetching departments of a particular employee.....after question mark they are called as request parameters
+
+GET http://localhost:9090/api/departments/36 ==> 36 is the department id whose details we have to fetch
