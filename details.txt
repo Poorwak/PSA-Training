@@ -1,0 +1,5 @@
+
+GET http://localhost:9090/api/employee/ ==> Fetching list of employees
+GET http://localhost:9090/api/employee/40 ==> Fetching particular employee list
+POST http://localhost:9090/api/employee/ ==> Saving employee details
+DELETE http://localhost:9090/api/employee/ 
